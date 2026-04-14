@@ -4,7 +4,6 @@ import { petList } from "../data/data";
 function PetList() {
   return (
     <>
-      <h1>PetList</h1>
       <div>
         {petList.map((pet, index) => (
           <PetCard
