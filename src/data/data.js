@@ -2,6 +2,7 @@ export const petList = [
   // --- DOGS ---
   {
     name: "Barnaby",
+    type: "dog",
     weight: "32kg",
     funFact: "Can balance a full glass of water on his head while walking.",
     backstory:
@@ -10,6 +11,7 @@ export const petList = [
   },
   {
     name: "Pip",
+    type: "dog",
     weight: "4kg",
     funFact:
       "Considers himself the neighborhood watch and barks at falling leaves.",
@@ -19,6 +21,7 @@ export const petList = [
 
   {
     name: "Luna",
+    type: "dog",
     weight: "25kg",
     funFact: "Snores in the exact rhythm of 1920s jazz music.",
     backstory:
@@ -29,6 +32,7 @@ export const petList = [
   // --- CATS ---
   {
     name: "Sir Meows-a-Lot",
+    type: "cat",
     weight: "6kg",
     funFact: "Only drinks water if it’s served in a crystal flute.",
     backstory:
@@ -37,6 +41,7 @@ export const petList = [
   },
   {
     name: "Mochi",
+    type: "cat",
     weight: "4.5kg",
     funFact:
       "Has a 'thumb' on each front paw that allows her to open cabinet doors.",
@@ -46,6 +51,7 @@ export const petList = [
   },
   {
     name: "Shadow",
+    type: "cat",
     weight: "5kg",
     funFact:
       "Capable of disappearing into dark corners even when wearing a bright neon collar.",
@@ -57,6 +63,7 @@ export const petList = [
   // --- HAMSTERS ---
   {
     name: "Turbo",
+    type: "hamster",
     weight: "120g",
     funFact: "Clocked in at 5 miles per hour on his exercise wheel.",
     backstory:
@@ -65,6 +72,7 @@ export const petList = [
   },
   {
     name: "Nugget",
+    type: "hamster",
     weight: "150g",
     funFact: "Can fit three whole baby carrots in his cheek pouches at once.",
     backstory:
@@ -73,6 +81,7 @@ export const petList = [
   },
   {
     name: "Sprout",
+    type: "hamster",
     weight: "100g",
     funFact: "Actually prefers kale over sunflower seeds.",
     backstory:
