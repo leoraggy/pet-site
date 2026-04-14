@@ -1,0 +1,7 @@
+.hero-section {
+  background: var(--hero-bg);
+  padding: 32px;
+  border-radius: 8px;
+  margin: 16px;
+  background-color: white;
+}

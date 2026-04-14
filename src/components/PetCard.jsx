@@ -1,3 +1,5 @@
+import "./PetCard.css";
+
 function PetCard({ name, weight, funFact, backstory, img }) {
   return (
     <div className="pet-card-container">
